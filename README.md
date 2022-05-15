@@ -1,8 +1,6 @@
 # PT_2020-2021
 
-The 4 big assignments for university, PT.
-All are full-stack project sized, with Java Swing frontend, Java backend and csv text based database (the latter ones).
-Each have their own documentations in their folders if you are interested.
+The 4 big assignments for university, PT. All are full-stack project sized, with Java Swing frontend, Java backend and csv text based database (the latter ones). Each have their own documentations in their folders if you are interested.
 
 
 
