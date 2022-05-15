@@ -1,0 +1,7 @@
+OrderID: 5
+Client: Carl Johnson
+Product: Sprite
+Quantity: 10
+Price: 3.5
+
+Total: 35.0
